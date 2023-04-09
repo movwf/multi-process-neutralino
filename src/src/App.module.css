@@ -1,0 +1,30 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: gainsboro;
+}
+
+.Row {
+  height: 50%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.HalfCol {
+  box-sizing: border-box;
+  flex-grow: 1;
+  border: 1px solid rgba(255,255,255,0.5);
+  text-align: center;
+  padding: 5px;
+  overflow: hidden;
+}
+
+.TextArea {
+  width: 99%;
+  height: 75%;
+  border: none;
+  appearance: none;
+  resize: none;
+}
