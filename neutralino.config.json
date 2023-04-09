@@ -15,7 +15,7 @@
   ],
   "modes": {
     "window": {
-      "title": "multi-process",
+      "title": "Multi Process",
       "width": 800,
       "height": 500,
       "minWidth": 400,
