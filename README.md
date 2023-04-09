@@ -1,6 +1,6 @@
-# neutralinojs-zero
-An empty Neutralinojs app, extend as you wish
+# Multi Sub Process Spawner App
+- Built with Neutralino.js & Solid.JS
 
-```
-neu create myapp --template neutralinojs/neutralinojs-zero
-```
+> In development ()
+
+-[ ] spawnProcess bug is not fixed [#961](https://github.com/neutralinojs/neutralinojs/issues/961) yet.
